@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize a repository, it allows me to track all files and changes I made
+from that point of initialization forward. 
