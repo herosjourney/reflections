@@ -1,4 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When I initialize a repository, it allows me to track all files and changes I made
-from that point of initialization forward. 
+from that point of initialization forward.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+staging area is a pre-commit area where files are ready to be committed to the
+repository. It allows you to bundle files into a group because sometimes you
+working in files as a group and not just individually. 
